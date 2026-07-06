@@ -25,7 +25,7 @@ export interface Stat {
 export const userInfo = {
   name: "NYC323",
   title: "A student of DT",
-  bio: "An idiot",
+  bio: "Nothing",
   email: "396442603@qq.com",
   githubUrl: "https://github.com/NYC323",
   linkedinUrl: "https://linkedin.com/in/NYC323",
